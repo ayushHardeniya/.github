@@ -1,4 +1,5 @@
-<H2> 🔐 Security Policy </H2>  
+<H1> 🔐 Security Policy </H1>  
+---
 
 ## Reporting a Vulnerability  
 If you discover a security issue, **please do NOT file a public issue**. Instead, email me at **[connect@ayushhardeniya.site]**. 
