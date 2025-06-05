@@ -1,4 +1,5 @@
 <H1> 🔐 Security Policy </H1>  
+
 ---
 
 ## Reporting a Vulnerability  
