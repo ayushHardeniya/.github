@@ -1,8 +1,7 @@
 # 🔐 Security Policy 
 
-
 ## Reporting a Vulnerability  
-If you discover a security issue, **please do NOT file a public issue**. Instead, email me at **[connect@ayushhardeniya.site]**. 
+If you discover a security issue, **please do NOT file a public issue**. Instead, email me at **[ayushhardeniya@hotmail.com]**. 
 
 We appreciate responsible disclosure and will work to resolve issues ASAP.  
 
